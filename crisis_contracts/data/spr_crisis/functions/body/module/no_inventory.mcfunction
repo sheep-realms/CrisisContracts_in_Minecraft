@@ -1,0 +1,29 @@
+clear @a[nbt={SelectedItem:{id:"minecraft:barrier",tag:{Tags:["spr_crisis:ng"]}}}] minecraft:barrier{Tags:["spr_crisis:ng"]}
+clear @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:barrier",tag:{Tags:["spr_crisis:ng"]}}]}] minecraft:barrier{Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.9 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.10 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.11 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.12 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.13 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.14 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.15 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.16 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.17 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.18 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.19 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.20 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.21 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.22 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.23 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.24 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.25 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.26 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.27 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.28 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.29 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.30 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.31 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.32 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.33 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.34 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
+replaceitem entity @a container.35 minecraft:barrier{display:{Name:"[{\"text\":\"= 禁止使用 =\",\"color\":\"red\"}]",Lore:["{\"text\":\"[危机合约] 轻装上阵\"}"]},Tags:["spr_crisis:ng"]}
